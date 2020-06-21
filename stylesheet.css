@@ -82,9 +82,18 @@ color: white;
 
 
 @media (max-width: 750px){
+ 
+  .header{
+ position: relative;
+}
   .menu{
-    margin-right: 150px;
+    position: absolute;
+    top: 35px;
+    left: 25%
+}
+  .search{
+    position: absolute;
+    top: 37px;
+    right: 25%;
   }
-  .title{
-     margin-right: 150px
-  }
+}
