@@ -81,17 +81,10 @@ color: white;
 }
 
 
-@media (max-width: 1000px){
-
-.menu{
-    margin-right: 30px;
-
-}
-.title{
-     margin-right: 30px;
-
-}
-
-
-
-}
+@media (max-width: 750px){
+  .menu{
+    margin-right: 150px;
+  }
+  .title{
+     margin-right: 150px
+  }
