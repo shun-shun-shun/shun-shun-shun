@@ -1,0 +1,115 @@
+.lw {
+    font-size: 60px;
+}
+/* これはpc向けのcss(1000px超え) */
+.all-wrapper{
+background-color: #1e1e1e;
+  color: white;
+}
+.header{
+background-color: #222222;
+height: 200px;
+  position: relative;
+}
+.header-wrapper{
+width: 80%;
+margin:  0 auto;
+text-align: center;
+}
+.menu{
+display: inline-block;
+ position: absolute;
+  top: 70px;
+  left: 10%;
+
+}
+.title{
+display: inline-block;
+  margin-top: 40px;
+
+}
+.search{
+display: inline-block;
+   position: absolute;
+  top: 70px;
+  right: 10%;
+}
+.main-upper{
+  border-bottom: 1px solid gray;
+  height: 200px;
+}
+.main-upper-wrapper{
+width:  90%;
+margin: 0 auto;
+  text-align: center;
+  margin-top: 70px;
+  position: relative;
+}
+.big{
+display: inline-block;
+
+}
+.sentence{
+display: inline-block;
+}
+.main-lower{
+border-bottom: 1px solid gray;}
+.main-lower-wrapper{
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 70px;
+}
+.cards{
+  margin-bottom: 70px;
+}
+.card{
+display: inline-block;
+}
+.footer{
+background-color: #eeeeee;
+  height: 100px;
+  color: black;
+}
+.footer-wrapper{
+width: 80%;
+margin: 0 auto;
+text-align: center;
+   position: relative;
+}
+.sns-button{
+display: inline-block;
+  position: absolute;
+  top: 30px;
+  left: 10%;
+}
+.footer-menu{
+display: inline-block;
+   position: absolute;
+  top: 30px;
+  right: 1px;
+}
+.footer-title{
+display: inline-block;
+  font-size: 20px;
+
+}
+a{
+text-decoration: none;
+color: black;
+}
+.fa-twitter{
+  color: white;
+  background-color: #00acee;
+  padding: 8px;
+  margin-right: 10px;
+
+}
+.fa-envelope{
+  background-color: black;
+  padding: 8px;
+  color: white;
+}
+.un{
+padding-right: 15px;
+}
