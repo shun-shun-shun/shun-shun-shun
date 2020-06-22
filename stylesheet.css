@@ -88,12 +88,12 @@ color: white;
   .menu{
     position: absolute;
     top: 35px;
-    left: 20px;
+    left: 100px;
 }
   .search{
     position: absolute;
     top: 37px;
-    right: 20px;
+    right: 100px;
   }
   .card{
 display: block;
