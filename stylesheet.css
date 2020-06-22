@@ -80,7 +80,7 @@ color: white;
 }
 
 
-@media (max-width: 750px){
+@media (max-width: 1000px){
  
   .header{
  position: relative;
