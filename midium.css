@@ -1,0 +1,184 @@
+.lw {
+    font-size: 60px;
+}
+/* これはタブレット向けのcss(750~1000px) */
+
+.all-wrapper{
+background-color: #1e1e1e;
+  color: white;
+    width: 100%;
+}
+.header{
+background-color: #222222;
+height: 70px;
+  position: relative;
+    margin-bottom: 40px;
+}
+.header-wrapper{
+width: 80%;
+margin:  0 auto;
+text-align: center;
+}
+.menu{
+display: inline-block;
+ position: absolute;
+  top: 17px;
+  left: 10%;
+
+}
+.title{
+display: inline-block;
+    margin-top: -10px;
+  color: #87CEEB;
+}
+.search{
+display: inline-block;
+   position: absolute;
+  top: 17px;
+  right: 10%;
+}
+.main-upper{
+  border-bottom: 1px solid gray;
+  height: 350px;
+}
+.main-upper-wrapper{
+width:  650px;
+margin: 0 auto;
+  position: relative;
+}
+.img{
+    display: inline-block;
+}
+.big{
+    width: 275px;
+    height: 275px;
+    object-fit: cover;
+    position: absolute;
+    top: 10px;
+    right: 50%;
+}
+.right{
+    display: inline-block;
+    position:absolute;
+    top: 10px;
+    left: 55%;
+}
+.headline{
+    display: block;
+    width: 300px;
+    font-size: 20px;
+    text-align: left;
+}
+.headline:hover{
+    color: #ff0000;
+}
+.sentence{
+    display: block;
+    width: 300px;
+    font-size: 13px;
+    margin-top: 50px;
+    text-align: left;
+}
+
+
+.recent-view{
+    width: 650px;
+    margin: 0 auto;
+     height: 100px;
+    position: relative;
+    
+}
+.recent{
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+}
+.view-more{
+    display: inline-block;
+    position: absolute;
+    top: 25px;
+    left: 80%;
+    border: solid 1px purple;
+    padding: 10px;
+}
+.view-more:hover{
+    background-color: rgba(128, 0 ,128, 0.5);
+    
+}
+.main-lower{
+border-bottom: 1px solid gray;
+}
+.main-lower-wrapper{
+  width: 650px;
+  margin: 0 auto;
+  text-align: center;
+ 
+}
+.cards{
+  margin-bottom: 70px;
+}
+.card{
+    width: 200px;
+}
+.one{
+    margin-right:  80px;
+}
+.two{
+    margin-right: 10px;
+}
+.three{
+    margin-right:    80px;
+}
+.four{
+    margin-right: 10px;
+}
+.footer{
+background-color: #eeeeee;
+  height: 100px;
+  color: black;
+}
+.footer-wrapper{
+width: 80%;
+margin: 0 auto;
+text-align: center;
+   position: relative;
+}
+.sns-button{
+display: inline-block;
+  position: absolute;
+  top: 30px;
+  left: 10%;
+}
+.footer-menu{
+display: inline-block;
+   position: absolute;
+  top: 30px;
+  right: 10%;;
+  color: black;
+}
+.footer-title{
+display: inline-block;
+  font-size: 20px;
+
+}
+a{
+text-decoration: none;
+color: black;
+}
+.fa-twitter{
+  color: white;
+  background-color: #00acee;
+  padding: 8px;
+  margin-right: 10px;
+
+}
+.fa-envelope{
+  background-color: black;
+  padding: 8px;
+  color: white;
+}
+.un{
+padding-right: 15px;
+}
+.w{
+color: black;}
