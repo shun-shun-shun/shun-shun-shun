@@ -1,0 +1,83 @@
+.lw {
+    font-size: 60px;
+}
+.all-wrapper{
+background-color: #000000;
+  height: 100%;
+  color: white;
+}
+.header{
+width:  100%;
+}
+.header-wrapper{
+width: 80%;
+margin:0 auto;
+  text-align: center;
+}
+.header-content{
+ display: inline-block;
+
+}
+.menu{
+display: inline-block;
+}
+.title{
+display: inline-block;
+}
+.search{
+display: inline-block;
+}
+.main-upper{
+width: 100%;
+}
+.main-upper-wrapper{
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+.main-upper-content{
+display: inline-block;
+}
+.big{
+display: inline-block;
+}
+.sentence{
+display: inline-block;
+}
+.main-lower{
+width: 100%;
+}
+.main-lower-wrapper{
+width: 80%;
+margin:  0 auto;
+  text-align: center;
+}
+.card{
+display: inline-block;
+}
+.footer{
+width:  100%;
+
+}
+.footer-wrapper{
+width:  100%;
+  margin:  0 auto;
+  text-align: center;
+}
+.sns-button{
+display: inline-block;
+}
+.footer-menu{
+display: inline-block;
+  color :white;
+
+}
+.footer-title{
+display: inline-block;
+}
+a{
+color: white;
+  text-decoration: none;
+}
+
+
