@@ -1,6 +1,9 @@
 .lw {
     font-size: 60px;
 }
+.title{
+    color: #87CEEB;
+}
 /* これはタブレット向けのcss(750~1000px) */
 
 .all-wrapper{
